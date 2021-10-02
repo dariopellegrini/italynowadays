@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : News dall'Italia sempre promte
+  - title                                 : News dall'Italia sempre aggiornate
     description                           : Le nostre news vengono recuperate da <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> e sono sempre aggiornate e corrette, di ora in ora.
     fontawesome_icon_name                 : newspaper
     
