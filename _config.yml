@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : newspaper
     
   - title                                 : Video news giornaliere
-    description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> le video news danno aggiornamenti giornalieri sulle notizie più interessanti d'Italia.
+    description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> offriamo video giornalieri sulle notizie più interessanti d'Italia.
     fontawesome_icon_name                 : circle-play
 
   - title                                 : Video Support
