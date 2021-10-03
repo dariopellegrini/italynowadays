@@ -43,39 +43,22 @@ features                                  :
     description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> offriamo video giornalieri sulle notizie più interessanti d'Italia.
     fontawesome_icon_name                 : circle-play
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Ricerca veloce
+    description                           : Offriamo una ricerca veloce tra le nostre news e i nostri video, offrendo una visione sempre precisa e accurata.
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Dati ANSA
+    description                           : L'utilizzo di <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> ci permette di offrire le migliori news d'Italia in modo tempestivo e sintetico.
+    fontawesome_icon_name                 : database
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Gratis e senza pubblicità
+    description                           : Italy Nowadays è un'app realizzata senza scopo di lucro e ha come unico fine offrire a tutti news sicure e veloci, senza costi aggiuntivi o pubblicità e senza tracciare nessun dato dell'utente.
+    fontawesome_icon_name                 : gift
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
+  - title                                 : Contattaci
+    description                           : Per qualsiasi informazione in merito a Italy Nowadays <a href="mailto:info@dariopellegrini.com">contattaci</a>
+    fontawesome_icon_name                 : envelope
+    
 
 # Theme Settings
 topbar_color                              : "#000000"
