@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Video news giornaliere
     description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> offriamo video giornalieri sulle notizie più interessanti d'Italia.
-    fontawesome_icon_name                 : youtube
+    fontawesome_icon_name                 : rss
 
   - title                                 : Ricerca veloce
     description                           : Offriamo una ricerca veloce tra le nostre news e i nostri video, offrendo una visione sempre precisa e accurata.
