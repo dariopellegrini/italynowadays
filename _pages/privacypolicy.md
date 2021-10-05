@@ -10,5 +10,5 @@ include_in_header: false
 
 # Privacy Policy
 
-## 1.0 Information We Collect
+## 1.0 Informazioni sui dati raccolti dall'app
 Non salviamo o registriamo nessuna informazione riguardo all'utente o al suo utilizzo nell'app. Allo stesso modo non integriamo alcun servizio, software o libreria di terze parti che lo faccia.
