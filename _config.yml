@@ -44,11 +44,11 @@ features                                  :
     fontawesome_icon_name                 : rss
 
   - title                                 : Ricerca veloce
-    description                           : Offriamo una ricerca veloce tra le nostre news e i nostri video, offrendo una visione sempre precisa e accurata.
+    description                           : Integriamo una ricerca veloce tra le nostre news e i nostri video, dando così una visione sempre precisa e accurata.
     fontawesome_icon_name                 : compass
 
   - title                                 : Dati ANSA
-    description                           : L'utilizzo di <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> ci permette di offrire le migliori news d'Italia in modo tempestivo e sintetico.
+    description                           : L'utilizzo di <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> ci permette di proporre le migliori news d'Italia in modo tempestivo e sintetico.
     fontawesome_icon_name                 : database
 
   - title                                 : Gratis e senza pubblicità
