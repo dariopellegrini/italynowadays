@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : News dall'Italia sempre aggiornate
+  - title                                 : News dall'Italia e dal mondo sempre aggiornate
     description                           : Le nostre news vengono recuperate da <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> e sono sempre aggiornate e corrette, di ora in ora.
     fontawesome_icon_name                 : newspaper
     
   - title                                 : Video news giornaliere
-    description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> offriamo video giornalieri sulle notizie più interessanti d'Italia.
+    description                           : Grazie a <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> offriamo video giornalieri sulle notizie più interessanti d'Italia e del mondo.
     fontawesome_icon_name                 : rss
 
   - title                                 : Ricerca veloce
@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : compass
 
   - title                                 : Dati ANSA
-    description                           : L'utilizzo di <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> ci permette di proporre le migliori news d'Italia in modo tempestivo e sintetico.
+    description                           : L'utilizzo di <a href="https://www.ansa.it/sito/static/ansa_rss.html">RSS ANSA</a> ci permette di proporre le migliori news in italiano in modo tempestivo e sintetico.
     fontawesome_icon_name                 : database
 
   - title                                 : Gratis e senza pubblicità
