@@ -7,10 +7,11 @@ include_in_header: true
 # Changelog
 Qui saranno annotati tutti i cambiamenti fatti sulle app per ogni versione.
 
-### `Prima Release`
+# **Versione 1.6**
+Migliorata usabilità.  
+*23 dicembre 2021*
 
 # **Versione 1.0**
-
 Prima versione di **Italy Nowadays**.  
 *6 ottobre 2021*
 
