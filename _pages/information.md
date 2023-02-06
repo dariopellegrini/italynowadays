@@ -1,3 +1,9 @@
+---
+layout: page
+title: Information
+include_in_header: false
+---
+
 # Le news
 
 Le news di Italy Nowadays provengono esclusivamente da ANSA, la prima agenzia di stampa italiana.  
