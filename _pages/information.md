@@ -12,4 +12,4 @@ I sistemi di Italy Nowadays riportano quanto scritto da ANSA, analizzando le sue
 
 
 ## Contatti
-Per informazioni scrivere a italynowadays@gmail.com o chiamare al numero + 39 3387670367.
+Per informazioni scrivere a italynowadays@gmail.com.
